@@ -1,5 +1,5 @@
 Tenho prazer de compartilhar meu primeiro projeto em Python / Flask API construída durante os estudos iniciais
-da minha carreira para gerenciar informações relacionadas a vendas de carros.
+da minha carreira para gerenciar informações relacionadas a vendas de carros utlizando os conceitos do CRUD (Create, Read, Update e Delete)
 
 Endpoints:
 
