@@ -1,24 +1,5 @@
-Tenho prazer de compartilhar meu primeiro projeto em Python / Flask API construída durante os estudos iniciais
-da minha carreira para gerenciar informações relacionadas a vendas de carros utlizando os conceitos do CRUD (Create, Read, Update e Delete)
+Tenho o prazer de compartilhar com meu início nos estudos em desenvolvimento de APIs. Recentemente, construí minha primeira API utilizando a linguagem Python e o micro framework Flask.
 
-Endpoints:
+Através dessa experiência, pude aprofundar meu entendimento nos princípios do ciclo de vida das APIs, desde o design inicial até o lançamento efetivo. A API que desenvolvi é simples, focada no gerenciamento de veículos para venda, utilizando os fundamentos do CRUD (Create, Read, Update e Delete).
 
-Obter todos os carros
-Método: GET
-Descrição: Retorna uma lista completa de carros cadastrados.
-
-Obter carro por ID
-Método: GET
-Descrição: Retorna informações específicas sobre um carro, com base no ID fornecido.
-
-Atualizar informações do carro por ID
-Método: PUT
-Descrição: Atualiza as informações de um carro específico com base no ID fornecido / formato JSON.
-
-Cadastrar novo carro
-Método: POST
-Descrição: Adiciona um novo carro à lista formato JSON.
-
-Excluir carro por ID
-Método: DELETE
-Descrição: Deleta um carro específico com base no ID fornecido.
+Para detalhar, os endpoint / 'Create' possibilita a inserção de novos registros de veículos no sistema. O 'Read', que é frequentemente associado ao método GET, permite a leitura e consulta dos dados existentes, proporcionando uma visão abrangente do inventário de veículos. O 'Update' permite a modificação e atualização de informações específicas dos veículos registrados, enquanto o endpoint 'Delete' possibilita a exclusão de registros, promovendo uma gestão eficaz do banco de dados da aplicação.
